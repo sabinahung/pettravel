@@ -6,7 +6,7 @@ st.set_page_config(
     page_title="Reuniting with your pet", 
     page_icon='✈️', 
     layout="centered", 
-    initial_sidebar_state="expanded")
+    initial_sidebar_state="auto")
 
 df = pd.read_csv('airlines.csv')
 
