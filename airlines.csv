@@ -1,0 +1,11 @@
+airline,travel_method,conditions,price,url,title
+royal_dutch,cabin,if they fit under the seat in front of you in a closed kennel or travel bag and if animal plus carrier weigh 8 kg or less,,https://www.klm.com.tw/information/pets/reservation,Royal_Dutch
+united,cabin,,,https://www.united.com/en/us/fly/travel/traveling-with-pets.html,United
+korean,cabin,weight,,https://www.koreanair.com/cn/zh-cn/airport/assistance/travel-with-pet/requirements,Korean
+air-canada,cabin,,,https://www.aircanada.com/ca/zh/aco/home/plan/special-assistance/pets.html#/,Air-Canada
+alaska,cabin,,,https://www.alaskaair.com/content/travel-info/policies/pets-traveling-with-pets/pets-in-cabin,Alaska
+turkish,cabin,,,https://www.turkishairlines.com/en-us/any-questions/traveling-with-pets/,Turkish
+american ,cabin,,,https://www.aa.com/i18n/customer-service/about-us/about-us.jsp?anchorEvent=false&from=comp_footer,American 
+starlux,cargo,,,https://www.starlux-airlines.com/en-TW/booking/animal/carriage-of-live-animals,Starlux
+eva,cargo,,,https://www.evaair.com/en-tw/fly-prepare/baggage/travelling-with-pets/,Eva
+china,cargo,,,https://www.china-airlines.com/tw/en/fly/prepare-for-the-fly/baggage/pets,China
